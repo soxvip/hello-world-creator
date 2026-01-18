@@ -1,6 +1,8 @@
 const Index = () => {
   return (
-    <div className="min-h-screen bg-black" />
+    <div className="flex min-h-screen items-center justify-center bg-black">
+      <span className="text-white text-4xl font-bold">OI</span>
+    </div>
   );
 };
 
