@@ -1,7 +1,13 @@
+import bananaImg from "@/assets/banana.png";
+
 const Index = () => {
   return (
     <div className="flex min-h-screen items-center justify-center bg-black">
-      <span className="text-white text-4xl font-bold">OI</span>
+      <img 
+        src={bananaImg} 
+        alt="Banana flutuante" 
+        className="w-48 animate-bounce"
+      />
     </div>
   );
 };
