@@ -1,12 +1,12 @@
-import bananaImg from "@/assets/banana.png";
+import appleImg from "@/assets/apple.png";
 
 const Index = () => {
   return (
     <div className="flex min-h-screen flex-col items-center justify-center bg-black">
       <span className="mb-4 text-4xl font-bold text-white">_Sox</span>
       <img 
-        src={bananaImg} 
-        alt="Banana flutuante" 
+        src={appleImg} 
+        alt="Maçã flutuante" 
         className="w-48 animate-bounce"
       />
     </div>
