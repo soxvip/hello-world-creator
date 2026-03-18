@@ -1,4 +1,4 @@
-import appleImg from "@/assets/apple.png";
+import bananaImg from "@/assets/banana.png";
 
 const Index = () => {
   return (
