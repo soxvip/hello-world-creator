@@ -6,7 +6,7 @@ const Index = () => {
       <span className="mb-4 text-4xl font-bold text-white">_Sox</span>
       <img 
         src={bananaImg} 
-        alt="Manga flutuante" 
+        alt="Banana flutuante" 
         className="w-48 animate-bounce"
       />
     </div>
