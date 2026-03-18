@@ -5,7 +5,7 @@ const Index = () => {
     <div className="flex min-h-screen items-center justify-center bg-black">
       <img 
         src={bananaImg} 
-        alt="Banana flutuante" 
+        alt="Manga flutuante" 
         className="w-48 animate-bounce"
       />
     </div>
